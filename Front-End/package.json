@@ -1,0 +1,15 @@
+{
+  "name": "warships-front",
+  "version": "0.0.0",
+  "description": "front-end side of the project",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "private"
+  },
+  "author": "@FarajiOranj",
+  "license": "GPL-3.0-or-later"
+}
