@@ -105,7 +105,7 @@ contract Warships is WarshipsStorage, IClassicModeWSH {
     }
 
     function guessClassicMode(ClassicGuess calldata playerGuess)
-        external
+        external override
         classicGuessChecker(
             playerGuess.pAddr,
             playerGuess.guess,
