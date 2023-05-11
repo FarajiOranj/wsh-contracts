@@ -5,8 +5,8 @@ pragma solidity 0.8.19;
 /*/ ***************** IMPORTS ***************** /*/
 
 // ++++++++++ Constants:
-import "./constants/Constants.sol";
-import "./constants/Errors.sol";
+import "./constants/WSHConstants.sol";
+import "./constants/WSHErrors.sol";
 
 // +++++++++ Interfaces:
 

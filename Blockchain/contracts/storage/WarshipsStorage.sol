@@ -64,9 +64,6 @@ abstract contract WarshipsStorage {
     // waiting player data in one hand mode.
     // playerInGameData[15] internal wpIOHM;
 
-    // VIP Registrar.
-    mapping(address player => bool isVIP) public VIP;
-
     // Merkle root of a player to the data during his/her game.
     mapping (bytes32 => PMDIC) internal prTpmd;
 
