@@ -1,2 +1,13 @@
-# warships-decentralized
-Warships blockchain game is a strategy-based &amp; competitive game in which two players try to sink each other's ships on a grid-based board (10*10). Each player starts the game by placing their ships on the board in various positions, and then takes turns guessing the location of their opponent's ships.
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.ts
+```
